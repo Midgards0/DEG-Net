@@ -37,7 +37,7 @@ CUDA_VISIBLE_DEVICES=0 python train_target.py
 ```
 in your terminal (using the first GPU device).
 
-It can be seen that test power on the target task will be significantly improved after introducing related tasks.
+It can be seen that accuracy on the target task will be significantly improved after introducing related tasks.
 We will also update our pre-trained models soon.
 
 # Citation
